@@ -1,2 +1,6 @@
+
 # auto-update-pi
-script to install updates without having to fumble around the gui
+A script to install updates to the raspberry pi without having 
+to fumble around the gui and wait for the updates to complete.
+
+The script can be easily scheduled to run via cron.
