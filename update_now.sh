@@ -7,7 +7,7 @@
 
 apt-get --quiet --assume-yes update
 
-apt-get -quiet --assume-yes upgrade
+apt-get --quiet --assume-yes upgrade
 
 reboot
 
